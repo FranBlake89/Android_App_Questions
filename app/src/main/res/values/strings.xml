@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ASSIGNMENT_3</string>
+    <string name="template_question">This is a question aboout anything that could be a question lol</string>
+    <string name="true_str">True</string>
+    <string name="false_str">False</string>
+</resources>
